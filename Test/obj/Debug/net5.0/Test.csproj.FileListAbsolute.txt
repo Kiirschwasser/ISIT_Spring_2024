@@ -1,0 +1,32 @@
+P:\2-МД-2\Жаворонков\Test\bin\Debug\net5.0\Test.exe
+P:\2-МД-2\Жаворонков\Test\bin\Debug\net5.0\Test.deps.json
+P:\2-МД-2\Жаворонков\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+P:\2-МД-2\Жаворонков\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+P:\2-МД-2\Жаворонков\Test\bin\Debug\net5.0\Test.dll
+P:\2-МД-2\Жаворонков\Test\bin\Debug\net5.0\ref\Test.dll
+P:\2-МД-2\Жаворонков\Test\bin\Debug\net5.0\Test.pdb
+P:\2-МД-2\Жаворонков\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+P:\2-МД-2\Жаворонков\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+P:\2-МД-2\Жаворонков\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+P:\2-МД-2\Жаворонков\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+P:\2-МД-2\Жаворонков\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+P:\2-МД-2\Жаворонков\Test\obj\Debug\net5.0\Test.dll
+P:\2-МД-2\Жаворонков\Test\obj\Debug\net5.0\ref\Test.dll
+P:\2-МД-2\Жаворонков\Test\obj\Debug\net5.0\Test.pdb
+P:\2-МД-2\Жаворонков\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\obj\Debug\net5.0\Test.dll
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\obj\Debug\net5.0\ref\Test.dll
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\obj\Debug\net5.0\Test.pdb
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\bin\Debug\net5.0\Test.exe
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\bin\Debug\net5.0\Test.deps.json
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\bin\Debug\net5.0\Test.dll
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\bin\Debug\net5.0\ref\Test.dll
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\bin\Debug\net5.0\Test.pdb
+D:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
