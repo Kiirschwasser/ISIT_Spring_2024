@@ -1,0 +1,64 @@
+F:\4-sem\isit\ISIT\Books-json\obj\Debug\net5.0\Books-json.csproj.AssemblyReference.cache
+F:\4-sem\isit\ISIT\Books-json\obj\Debug\net5.0\Books-json.GeneratedMSBuildEditorConfig.editorconfig
+F:\4-sem\isit\ISIT\Books-json\obj\Debug\net5.0\Books-json.AssemblyInfoInputs.cache
+F:\4-sem\isit\ISIT\Books-json\obj\Debug\net5.0\Books-json.AssemblyInfo.cs
+F:\4-sem\isit\ISIT\Books-json\obj\Debug\net5.0\Books-json.csproj.CoreCompileInputs.cache
+F:\4-sem\isit\ISIT\Books-json\bin\Debug\net5.0\Books-json.exe
+F:\4-sem\isit\ISIT\Books-json\bin\Debug\net5.0\Books-json.deps.json
+F:\4-sem\isit\ISIT\Books-json\bin\Debug\net5.0\Books-json.runtimeconfig.json
+F:\4-sem\isit\ISIT\Books-json\bin\Debug\net5.0\Books-json.runtimeconfig.dev.json
+F:\4-sem\isit\ISIT\Books-json\bin\Debug\net5.0\Books-json.dll
+F:\4-sem\isit\ISIT\Books-json\bin\Debug\net5.0\ref\Books-json.dll
+F:\4-sem\isit\ISIT\Books-json\bin\Debug\net5.0\Books-json.pdb
+F:\4-sem\isit\ISIT\Books-json\obj\Debug\net5.0\Books-json.dll
+F:\4-sem\isit\ISIT\Books-json\obj\Debug\net5.0\ref\Books-json.dll
+F:\4-sem\isit\ISIT\Books-json\obj\Debug\net5.0\Books-json.pdb
+F:\4-sem\isit\ISIT\Books-json\obj\Debug\net5.0\Books-json.genruntimeconfig.cache
+C:\Users\design\Desktop\9\obj\Debug\net5.0\Books-json.csproj.AssemblyReference.cache
+C:\Users\design\Desktop\9\obj\Debug\net5.0\Books-json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\design\Desktop\9\obj\Debug\net5.0\Books-json.AssemblyInfoInputs.cache
+C:\Users\design\Desktop\9\obj\Debug\net5.0\Books-json.AssemblyInfo.cs
+C:\Users\design\Desktop\9\obj\Debug\net5.0\Books-json.csproj.CoreCompileInputs.cache
+C:\Users\design\Desktop\9\obj\Debug\net5.0\Books-json.dll
+C:\Users\design\Desktop\9\obj\Debug\net5.0\ref\Books-json.dll
+C:\Users\design\Desktop\9\obj\Debug\net5.0\Books-json.pdb
+C:\Users\design\Desktop\9\bin\Debug\net5.0\Books-json.exe
+C:\Users\design\Desktop\9\bin\Debug\net5.0\Books-json.deps.json
+C:\Users\design\Desktop\9\bin\Debug\net5.0\Books-json.runtimeconfig.json
+C:\Users\design\Desktop\9\bin\Debug\net5.0\Books-json.runtimeconfig.dev.json
+C:\Users\design\Desktop\9\bin\Debug\net5.0\Books-json.dll
+C:\Users\design\Desktop\9\bin\Debug\net5.0\ref\Books-json.dll
+C:\Users\design\Desktop\9\bin\Debug\net5.0\Books-json.pdb
+C:\Users\design\Desktop\9\obj\Debug\net5.0\Books-json.genruntimeconfig.cache
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\bin\Debug\net5.0\Books-json.exe
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\bin\Debug\net5.0\Books-json.deps.json
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\bin\Debug\net5.0\Books-json.runtimeconfig.json
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\bin\Debug\net5.0\Books-json.runtimeconfig.dev.json
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\bin\Debug\net5.0\Books-json.dll
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\bin\Debug\net5.0\Books-json.pdb
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.csproj.AssemblyReference.cache
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.GeneratedMSBuildEditorConfig.editorconfig
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.AssemblyInfoInputs.cache
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.AssemblyInfo.cs
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.csproj.CoreCompileInputs.cache
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.dll
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\obj\Debug\net5.0\refint\Books-json.dll
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.pdb
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.genruntimeconfig.cache
+H:\ГУПТД\2-й Курс\2-й семестр\Небаев Фу\Спасибо\Игорь\ISIT\Books-Json-AfterNebaev\obj\Debug\net5.0\ref\Books-json.dll
+C:\CSharp\Books-Json-AfterNebaev\bin\Debug\net5.0\Books-json.exe
+C:\CSharp\Books-Json-AfterNebaev\bin\Debug\net5.0\Books-json.deps.json
+C:\CSharp\Books-Json-AfterNebaev\bin\Debug\net5.0\Books-json.runtimeconfig.json
+C:\CSharp\Books-Json-AfterNebaev\bin\Debug\net5.0\Books-json.runtimeconfig.dev.json
+C:\CSharp\Books-Json-AfterNebaev\bin\Debug\net5.0\Books-json.dll
+C:\CSharp\Books-Json-AfterNebaev\bin\Debug\net5.0\Books-json.pdb
+C:\CSharp\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.csproj.AssemblyReference.cache
+C:\CSharp\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.AssemblyInfoInputs.cache
+C:\CSharp\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.AssemblyInfo.cs
+C:\CSharp\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.csproj.CoreCompileInputs.cache
+C:\CSharp\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.dll
+C:\CSharp\Books-Json-AfterNebaev\obj\Debug\net5.0\refint\Books-json.dll
+C:\CSharp\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.pdb
+C:\CSharp\Books-Json-AfterNebaev\obj\Debug\net5.0\Books-json.genruntimeconfig.cache
+C:\CSharp\Books-Json-AfterNebaev\obj\Debug\net5.0\ref\Books-json.dll

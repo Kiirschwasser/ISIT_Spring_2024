@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YlH6H5xDP8DPBjstcbZuKhHdZ0Y0WqmduWGS/Sb2mMu/5WbnxuP3lYxEnLRrzdX+kD+oaXBHQlGG7DATT9Yuzg==",
+  "success": true,
+  "projectFilePath": "C:\\CSharp\\Books-Json-AfterNebaev\\Books-json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
