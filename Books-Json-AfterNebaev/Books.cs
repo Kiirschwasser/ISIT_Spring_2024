@@ -1,6 +1,7 @@
 using System;
 using System.IO;
 using System.Collections.Generic;
+using System.Text.Json;
 
 namespace LibraryNamespace
 {
@@ -18,6 +19,51 @@ namespace LibraryNamespace
         /// <summary>
         /// Standard Constructor
         /// </summary>
+        public static class BookRepository
+        {
+            private const string FilePath = "books.json";
+            private static List<Book> _books;
+
+            static BookRepository()
+            {
+                _books = LoadBooks();
+            }
+
+            public static void SaveBooks()
+            {
+                string json = JsonSerializer.Serialize(_books);
+                File.WriteAllText(FilePath, json);
+            }
+
+            public static List<Book> LoadBooks()
+            {
+                if (File.Exists(FilePath))
+                {
+                    string json = File.ReadAllText(FilePath);
+                    return JsonSerializer.Deserialize<List<Book>>(json);
+                }
+                else
+                {
+                    return new List<Book>();
+                }
+            }
+            public static void AddBook(Book book)
+            {
+                _books.Add(book);
+                SaveBooks();
+            }
+            public static Book FindBookByTitle(string title)
+            {
+                return _books.Find(b => b.Title.ToLower() == title.ToLower());
+            }     
+                
+            public static void RemoveBook(Book book)
+            {
+                _books.Remove(book);
+                SaveBooks();
+            }   
+        }
+
         public Book(string Title, string Genre, string Author, int Year)
         {
             this.Title = Title;
@@ -43,6 +89,5 @@ namespace LibraryNamespace
             Console.WriteLine($"Availability: {Book.Availability}");
             Console.WriteLine($"Date: {Book.date}");
         }
-
     }
 }
